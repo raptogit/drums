@@ -1,3 +1,3 @@
 # drums
 
-[See the website in action ! ](https://www.google.com "Drums website")
+[See the website in action ! ](https://raptogit.github.io/drums/ "Drums website")
